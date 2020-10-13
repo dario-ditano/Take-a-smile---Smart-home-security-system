@@ -1,0 +1,1 @@
+{"devices": [{"NAME": "Camera control", "IP": "192.168.1.13", "PORT": 8383}, {"NAME": "Gas control", "IP": "192.168.1.13", "PORT": 8282}]}
